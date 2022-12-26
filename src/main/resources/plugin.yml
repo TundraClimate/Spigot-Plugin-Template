@@ -1,0 +1,20 @@
+name: # Plugin name here
+version: # Plugin version here
+main: # Main-class path here
+api-version: # Api-version here
+prefix: # Plugin prefix here
+load: # LOAD type here
+loadbefore: [
+  # here
+]
+depend: [
+  # dependencies here
+]
+softdepend: [
+  # soft-dependencies here
+]
+authors: [
+  # authors here
+]
+description: # Description here
+website: # Website URL here
